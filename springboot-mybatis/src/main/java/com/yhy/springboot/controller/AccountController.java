@@ -2,6 +2,7 @@ package com.yhy.springboot.controller;
 
 import com.yhy.springboot.bean.Account;
 import com.yhy.springboot.service.AccountService;
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

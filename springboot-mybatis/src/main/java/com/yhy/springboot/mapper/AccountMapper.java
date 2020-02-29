@@ -2,7 +2,6 @@ package com.yhy.springboot.mapper;
 
 import com.yhy.springboot.bean.Account;
 import org.apache.ibatis.annotations.*;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
